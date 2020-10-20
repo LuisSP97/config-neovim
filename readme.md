@@ -19,3 +19,8 @@ _'XXXX' es tu usuario_
 _La carpeta AppData forma parte de las carpetas ocultas_
 
 
+##Plugins
+Si quieres agregar o quitar algun plugin, debes hacerlo en el archivo init.vim, las instrucciones de como agregarlos se encuentran en el repositorio del gestor de plugins
+**[vim-plug](https://github.com/junegunn/vim-plug) - Gestor de plugins**
+
+
