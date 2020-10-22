@@ -12,7 +12,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 "Plugins Javascript
 Plug 'pangloss/vim-javascript'
-Plug 'mxw/vim-jsx'
+Plug 'maxmellon/vim-jsx-pretty'
 Plug 'elzr/vim-json'
 Plug 'othree/javascript-libraries-syntax.vim'
 
