@@ -1,7 +1,7 @@
 # Configuracion neovim
 
 ## Descripcion
-
+**Esta configuracion esta hecha en Windows 10**
 **Esta configuracion es inicial, e ira siendo modificada con el tiempo, posee los siguientes plugins**
 
 * [Minimalist](https://github.com/dikiaap/minimalist) - Esquema de colores
